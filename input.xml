@@ -1,0 +1,9 @@
+<User>
+    <name>Jessica</name>
+    <address>
+        <street>234 Elm St</street>
+        <city>Boston</city>
+        <state>MA</state>
+    </address>
+    <employed>false</employed>
+</User>
